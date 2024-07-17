@@ -1,0 +1,19 @@
+Written Report
+
+Summarizes the analysis:
+
+•Academic Performance across two subjects: Average scores in math and reading are above 78 % and 81% respectively, with notable variations across schools.
+
+•Passing Rates: While a significant percentage of students pass math and reading individually by 74.98 % and 85.80% respectively, the overall passing rate is lower (65.17 %), suggesting areas for progress in comprehensive academic accomplishment.
+
+•School Comparison: Identifying top-performing schools such as Cabrera and Thomas High School with 91.33% and 90.94% respectively for overall passing rates, and those needing more support like Rodriguez (52.98%) and Figueroa High School (53.20%).
+
+•Budget Implications: Analysis by spending per student reveals insights into resource allocation and its impact on academic outcomes as Huang High School has the highest budget per student. 
+
+•Student Population Impact: Understanding how school size affects academic performance provides strategic insights for educational planning.
+
+Two correct comparisons from the calculations:
+
+1.Highest Performing and lowest performing schools: Cabrera High School has the highest performance (91.33%) as per overall passing rate whereas Rodriguez High School has the lowest performance (52.98%). So, Rodriguez High School needs to pay attention towards their academic performances. 
+
+2.Scores by School Types: The academic performance based on school type has a significant variation in their overall passing rates as The Charter has the highest overall passing rate (90.43 %). On the other hand, District School type has the lowest overall passing rate (53.67%).  
