@@ -2,7 +2,6 @@
 
 This is the pandas challenge that asks for the following:
 1.For District Summary
-
     a.calculate the total number of unique schools.
     b.calculate the total number of students. 
     c.calculate the total budget.
@@ -22,7 +21,7 @@ This is the pandas challenge that asks for the following:
     f.Calculate the number of students per school with reading scores of 70 or higher from school_data_complete.
     g.calculate the number of students per school that passed both math and reading with scores of 70 or higher.
     h.calculate the passing rates.
-    i.Create a DataFrame called `per_school_summary` with columns for the calculations above.
+    i.Create a DataFrame called per_school_summary with columns for the calculations above.
 
 3.Highest-Performing Schools (by % Overall Passing)
 
